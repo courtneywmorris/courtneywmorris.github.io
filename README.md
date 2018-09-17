@@ -1,3 +1,3 @@
-# courtneywmorris.github.io
+# Data x Me
 
 [About](about.md)
