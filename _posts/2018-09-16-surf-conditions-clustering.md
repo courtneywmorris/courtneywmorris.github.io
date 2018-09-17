@@ -1,4 +1,7 @@
-
+---
+layout: post
+title: The Endless Summer
+---
 
 ```python
 import pandas as pd
